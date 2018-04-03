@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="boot2" />
+        <module name="boot2.kotlin" />
+        <module name="jvm.tools" />
+        <module name="lambda" />
+        <module name="simple.java.tools" />
+        <module name="simpleweb" />
+        <module name="springcloud-stream" />
+        <module name="testjava" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boot2" target="1.8" />
+      <module name="boot2.kotlin" target="1.8" />
+      <module name="javatest-parent" target="1.8" />
+      <module name="jvm.tools" target="1.8" />
+      <module name="jvmtools" target="1.8" />
+      <module name="lambda" target="1.8" />
+      <module name="simple.java.tools" target="1.8" />
+      <module name="simpleweb" target="1.6" />
+      <module name="spring.boot" target="1.8" />
+      <module name="springboot" target="1.8" />
+      <module name="springboot-parent" target="1.5" />
+      <module name="springcloud" target="1.8" />
+      <module name="springcloud-stream" target="1.8" />
+      <module name="springcloudstream" target="1.8" />
+      <module name="study" target="1.8" />
+      <module name="testjava" target="1.8" />
+      <module name="tools" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

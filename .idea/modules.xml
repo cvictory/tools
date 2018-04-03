@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring.boot/boot2/boot2.iml" filepath="$PROJECT_DIR$/spring.boot/boot2/boot2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring.boot/boot2.kotlin/boot2.kotlin.iml" filepath="$PROJECT_DIR$/spring.boot/boot2.kotlin/boot2.kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javatest-parent.iml" filepath="$PROJECT_DIR$/javatest-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/jvm.tools/jvm.tools.iml" filepath="$PROJECT_DIR$/tools/jvm.tools/jvm.tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/lambda/lambda.iml" filepath="$PROJECT_DIR$/study/lambda/lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/simple.java.tools/simple.java.tools.iml" filepath="$PROJECT_DIR$/tools/simple.java.tools/simple.java.tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring.boot/simpleweb/simpleweb.iml" filepath="$PROJECT_DIR$/spring.boot/simpleweb/simpleweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring.boot/spring.boot.iml" filepath="$PROJECT_DIR$/spring.boot/spring.boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring.boot/springcloud/springcloudstream/springcloud-stream.iml" filepath="$PROJECT_DIR$/spring.boot/springcloud/springcloudstream/springcloud-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/study.iml" filepath="$PROJECT_DIR$/study/study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/testjava/testjava.iml" filepath="$PROJECT_DIR$/study/testjava/testjava.iml" />
+    </modules>
+  </component>
+</project>
