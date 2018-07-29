@@ -1,4 +1,4 @@
-package com.alibaba.spring.boot.demo.study;
+package com.cvictory.javatest;
 
 import java.util.function.Function;
 

@@ -1,4 +1,4 @@
-package com.alibaba.cvictory.tools.format;
+package com.cvictory.javatest.cvictory.tools.format;
 
 import java.io.File;
 import java.io.FileInputStream;

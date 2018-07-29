@@ -1,4 +1,4 @@
-package com.alibaba.spring.boot.testjava;
+package com.cvictory.javatest.spring.boot.testjava;
 
 import java.lang.reflect.Method;
 
@@ -13,7 +13,7 @@ import java.lang.reflect.Method;
  */
 public class TestClassLoader {
     public static void main(String[] args) throws Exception {
-        Class<?> clz = Class.forName("com.alibaba.spring.boot.testjava.A");
+        Class<?> clz = Class.forName("com.cvictory.javatest.spring.boot.testjava.A");
         Object o = clz.newInstance();
         Method m = clz.getMethod("foo", String.class);
         long start = System.nanoTime();
@@ -30,7 +30,7 @@ public class TestClassLoader {
             System.out.println(i + "--------" + (System.nanoTime() - start3));
         }
         System.out.println("*************************2************************");
-        Class<?> clz2 = Class.forName("com.alibaba.spring.boot.testjava.A");
+        Class<?> clz2 = Class.forName("com.cvictory.javatest.spring.boot.testjava.A");
         //Assert.check(clz == clz2);
         Object o3 = clz2.newInstance();
         Method m3 = clz2.getMethod("foo", String.class);

@@ -1,4 +1,4 @@
-package com.alibaba.spring.cloud.demo.study;
+package com.cvictory.javatest.spring.cloud.demo.study;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

@@ -1,10 +1,10 @@
-package com.alibaba.spring.boot.demo.study;
+package com.cvictory.javatest;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class App
 {
     public static void main( String[] args )
     {

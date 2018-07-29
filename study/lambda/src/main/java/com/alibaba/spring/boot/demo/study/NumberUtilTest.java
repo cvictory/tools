@@ -1,4 +1,4 @@
-package com.alibaba.spring.boot.demo.study;
+package com.cvictory.javatest;
 
 /**
  * @author cvictory ON 2018/1/15

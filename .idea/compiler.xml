@@ -8,6 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="boot2" />
         <module name="boot2.kotlin" />
+        <module name="cloud-consumer" />
+        <module name="cloud-provider" />
+        <module name="eurekaserver" />
+        <module name="jersey-web" />
         <module name="jvm.tools" />
         <module name="lambda" />
         <module name="simple.java.tools" />
@@ -19,7 +23,11 @@
     <bytecodeTargetLevel>
       <module name="boot2" target="1.8" />
       <module name="boot2.kotlin" target="1.8" />
+      <module name="cloud-consumer" target="1.8" />
+      <module name="cloud-provider" target="1.8" />
+      <module name="eurekaserver" target="1.8" />
       <module name="javatest-parent" target="1.8" />
+      <module name="jersey-web" target="1.7" />
       <module name="jvm.tools" target="1.8" />
       <module name="jvmtools" target="1.8" />
       <module name="lambda" target="1.8" />

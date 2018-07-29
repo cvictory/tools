@@ -1,4 +1,4 @@
-package com.alibaba.cvictory.tools.unicode;
+package com.cvictory.javatest.cvictory.tools.unicode;
 
 import java.io.UnsupportedEncodingException;
 

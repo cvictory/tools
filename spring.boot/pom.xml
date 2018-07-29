@@ -4,8 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>parent</artifactId>
-        <groupId>com.alibaba.spring.boot.demo.study</groupId>
+        <groupId>com.cvictory.javatest</groupId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -17,6 +18,9 @@
         <module>boot2</module>
         <module>boot2.kotlin</module>
         <module>simpleweb</module>
+        <module>springcloud/eureka-server</module>
+        <module>springcloud/cloud-provider</module>
+        <module>springcloud/cloud-consumer</module>
     </modules>
 
 

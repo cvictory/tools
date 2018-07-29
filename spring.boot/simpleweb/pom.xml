@@ -9,7 +9,7 @@
         <version>1.5.8.RELEASE</version>
     </parent>
 
-    <groupId>com.alibaba.spring.boot.demo.study</groupId>
+    <groupId>com.cvictory.javatest</groupId>
     <artifactId>simpleweb</artifactId>
 
 <!-- Additional lines to be added here... -->

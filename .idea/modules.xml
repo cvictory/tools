@@ -4,7 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring.boot/boot2/boot2.iml" filepath="$PROJECT_DIR$/spring.boot/boot2/boot2.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring.boot/boot2.kotlin/boot2.kotlin.iml" filepath="$PROJECT_DIR$/spring.boot/boot2.kotlin/boot2.kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/cloud-consumer.iml" filepath="$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/cloud-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring.boot/springcloud/cloud-provider/cloud-provider.iml" filepath="$PROJECT_DIR$/spring.boot/springcloud/cloud-provider/cloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring.boot/springcloud/eureka-server/eurekaserver.iml" filepath="$PROJECT_DIR$/spring.boot/springcloud/eureka-server/eurekaserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/javatest-parent.iml" filepath="$PROJECT_DIR$/javatest-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jersey-web/jersey-web.iml" filepath="$PROJECT_DIR$/jersey-web/jersey-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/tools/jvm.tools/jvm.tools.iml" filepath="$PROJECT_DIR$/tools/jvm.tools/jvm.tools.iml" />
       <module fileurl="file://$PROJECT_DIR$/study/lambda/lambda.iml" filepath="$PROJECT_DIR$/study/lambda/lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/tools/simple.java.tools/simple.java.tools.iml" filepath="$PROJECT_DIR$/tools/simple.java.tools/simple.java.tools.iml" />
