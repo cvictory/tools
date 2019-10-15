@@ -2,17 +2,33 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/array/array.iml" filepath="$PROJECT_DIR$/algorithm/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/backtracking/backtracking.iml" filepath="$PROJECT_DIR$/algorithm/backtracking/backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/basic/basic.iml" filepath="$PROJECT_DIR$/algorithm/basic/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/bfs/bfs.iml" filepath="$PROJECT_DIR$/algorithm/bfs/bfs.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring.boot/boot2/boot2.iml" filepath="$PROJECT_DIR$/spring.boot/boot2/boot2.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring.boot/boot2.kotlin/boot2.kotlin.iml" filepath="$PROJECT_DIR$/spring.boot/boot2.kotlin/boot2.kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/cloud-consumer.iml" filepath="$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/cloud-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer2/cloud-consumer2.iml" filepath="$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer2/cloud-consumer2.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring.boot/springcloud/cloud-provider/cloud-provider.iml" filepath="$PROJECT_DIR$/spring.boot/springcloud/cloud-provider/cloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring.boot/springcloud/cloud-provider2/cloud-provider2.iml" filepath="$PROJECT_DIR$/spring.boot/springcloud/cloud-provider2/cloud-provider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/concurrents/concurrents.iml" filepath="$PROJECT_DIR$/study/concurrents/concurrents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/dfs/dfs.iml" filepath="$PROJECT_DIR$/algorithm/dfs/dfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/divide-and-onquer/divide-and-conquer.iml" filepath="$PROJECT_DIR$/algorithm/divide-and-onquer/divide-and-conquer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/dynamic/dynamic.iml" filepath="$PROJECT_DIR$/algorithm/dynamic/dynamic.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring.boot/springcloud/eureka-server/eurekaserver.iml" filepath="$PROJECT_DIR$/spring.boot/springcloud/eureka-server/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/algorithm/fibonacci/fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/graph/graph.iml" filepath="$PROJECT_DIR$/algorithm/graph/graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/greedy/greedy.iml" filepath="$PROJECT_DIR$/algorithm/greedy/greedy.iml" />
       <module fileurl="file://$PROJECT_DIR$/javatest-parent.iml" filepath="$PROJECT_DIR$/javatest-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/jersey-web/jersey-web.iml" filepath="$PROJECT_DIR$/jersey-web/jersey-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/tools/jvm.tools/jvm.tools.iml" filepath="$PROJECT_DIR$/tools/jvm.tools/jvm.tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/knapsack/knapsack.iml" filepath="$PROJECT_DIR$/algorithm/knapsack/knapsack.iml" />
       <module fileurl="file://$PROJECT_DIR$/study/lambda/lambda.iml" filepath="$PROJECT_DIR$/study/lambda/lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/tools/simple.java.tools/simple.java.tools.iml" filepath="$PROJECT_DIR$/tools/simple.java.tools/simple.java.tools.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring.boot/simpleweb/simpleweb.iml" filepath="$PROJECT_DIR$/spring.boot/simpleweb/simpleweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/sorting/sorting.iml" filepath="$PROJECT_DIR$/algorithm/sorting/sorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring.boot/spring.boot.iml" filepath="$PROJECT_DIR$/spring.boot/spring.boot.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring.boot/springcloud/springcloudstream/springcloud-stream.iml" filepath="$PROJECT_DIR$/spring.boot/springcloud/springcloudstream/springcloud-stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/study/study.iml" filepath="$PROJECT_DIR$/study/study.iml" />

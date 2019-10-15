@@ -32,6 +32,22 @@
     <ignored path="$PROJECT_DIR$/spring.boot/springcloud/cloud-provider/target/" />
     <ignored path="$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/target/" />
     <ignored path="$PROJECT_DIR$/jersey-web/target/" />
+    <ignored path="$PROJECT_DIR$/study/concurrents/target/" />
+    <ignored path="$PROJECT_DIR$/spring.boot/springcloud/cloud-provider2/target/" />
+    <ignored path="$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer2/target/" />
+    <ignored path="$PROJECT_DIR$/algorithm/graph/target/" />
+    <ignored path="$PROJECT_DIR$/algorithm/target/" />
+    <ignored path="$PROJECT_DIR$/algorithm/array/target/" />
+    <ignored path="$PROJECT_DIR$/algorithm/greedy/target/" />
+    <ignored path="$PROJECT_DIR$/algorithm/sorting/target/" />
+    <ignored path="$PROJECT_DIR$/algorithm/divide-and-onquer/target/" />
+    <ignored path="$PROJECT_DIR$/algorithm/bfs/target/" />
+    <ignored path="$PROJECT_DIR$/algorithm/dfs/target/" />
+    <ignored path="$PROJECT_DIR$/algorithm/backtracking/target/" />
+    <ignored path="$PROJECT_DIR$/algorithm/fibonacci/target/" />
+    <ignored path="$PROJECT_DIR$/algorithm/knapsack/target/" />
+    <ignored path="$PROJECT_DIR$/algorithm/dynamic/target/" />
+    <ignored path="$PROJECT_DIR$/algorithm/basic/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,131 +61,11 @@
       </map>
     </option>
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1676203969">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="3" />
-          <entry key="xml" value="13" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="3" />
-          <entry key="XML" value="13" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="xml" value="26" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="XML" value="26" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools/simple.java.tools/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools/jvm.tools/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jersey-web/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="47" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring.boot/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/src/main/java/com/alibaba/springcloud/consumer/feign/controller/ConsumerController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring.boot/boot2/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -181,105 +77,107 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>inflationThreshold</find>
-      <find>noInflation</find>
-      <find>output</find>
-      <find>INDENT</find>
-      <find>indent-amount</find>
-      <find>with PID</find>
-      <find>tomcat</find>
-      <find>core</find>
-      <find>LambdaMetafactory</find>
-      <find>﻿linkCallSite</find>
-      <find>$lambda</find>
-      <find>NAME_FACTORY</find>
-      <find>$$Lambda$</find>
-      <find>static</find>
-      <find>package</find>
-      <find>Package</find>
-      <find>kotlin.version</find>
-      <find>xmlFormatResult.xml</find>
-      <find>1.2.</find>
-      <find>EurekaServerMarkerConfiguration</find>
-      <find>EurekaServerConfigBeanConfiguration</find>
-      <find>System Status</find>
-      <find>total-avail-memory</find>
-      <find>apps</find>
-      <find>registry</find>
-      <find>registry.put</find>
-      <find>spring-cloud-starter-ribbon</find>
-      <find>import com.alibab</find>
-      <find>com.alibaba</find>
-      <find>com.cvictory.javatest.spring.boot.demo.study</find>
+      <find>Integer</find>
+      <find>incubator</find>
+      <find>threadLocalRandomProbe</find>
+      <find>join</find>
+      <find>0</find>
+      <find>steal</find>
+      <find>SIGNAL</find>
+      <find>ForkJoinWorkerThread</find>
+      <find>workQueue</find>
+      <find>DefaultForkJoinWorkerThreadFactory</find>
+      <find>offer</find>
+      <find>.start</find>
+      <find>leader</find>
+      <find>poll</find>
+      <find>TIDYING</find>
+      <find>TERMINATED</find>
+      <find>addWorker</find>
+      <find>keepAliveTime</find>
+      <find>ctl</find>
+      <find>addWorkerFailed</find>
+      <find>tryReleaseShared</find>
+      <find>DelayedWorkQueue</find>
+      <find>callable</find>
+      <find>completeThrowable</find>
+      <find>stack</find>
+      <find>next</find>
+      <find>removeEldestEntry</find>
+      <find>maxProfit</find>
+      <find>minDistance</find>
+      <find>peek</find>
     </findStrings>
     <replaceStrings>
       <replace>com.cvictory.javatest</replace>
+      <replace>SNode2</replace>
+      <replace>TransferStack2</replace>
+      <replace>Transferer2</replace>
     </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/testjava/src/main/java/com/alibaba/spring/boot/testjava/UnicodeConvert.java" />
-        <option value="$PROJECT_DIR$/testjava/src/main/java/com/alibaba/spring/boot/testjava/TestBytecode.java" />
-        <option value="$PROJECT_DIR$/tools/src/main/java/com/alibaba/cvictory/tools/unicode/UnicodeConvert.java" />
-        <option value="$PROJECT_DIR$/tools/src/main/resources/xmlFormat.xml" />
-        <option value="$PROJECT_DIR$/tools/src/main/java/com/alibaba/cvictory/tools/format/XmlFormat.java" />
-        <option value="$PROJECT_DIR$/xmlFormatResult.xml" />
-        <option value="$PROJECT_DIR$/springcloudstream/pom.xml" />
-        <option value="$PROJECT_DIR$/springcloudstream/src/main/java/com/alibaba/spring/cloud/demo/study/StreamdemoApplication.java" />
-        <option value="$PROJECT_DIR$/springcloud/springcloudstream/pom.xml" />
-        <option value="$PROJECT_DIR$/springcloud/pom.xml" />
-        <option value="$PROJECT_DIR$/simpleweb/t.log" />
-        <option value="$PROJECT_DIR$/lambda/pom.xml" />
-        <option value="$PROJECT_DIR$/lambda/src/main/java/com/alibaba/spring/boot/demo/study/NumberUtilTest.java" />
-        <option value="$PROJECT_DIR$/lambda/src/main/java/com/alibaba/spring/boot/demo/study/App.java" />
-        <option value="$PROJECT_DIR$/lambda/src/main/java/com/alibaba/spring/boot/demo/study/AnonymousClassExample.java" />
-        <option value="$PROJECT_DIR$/testjava/src/main/java/com/alibaba/spring/boot/testjava/TestClassLoader.java" />
-        <option value="$PROJECT_DIR$/lambda/src/main/java/com/alibaba/spring/boot/demo/study/LambdaArgumentExample.java" />
-        <option value="$PROJECT_DIR$/lambda/src/main/java/com/alibaba/spring/boot/demo/study/MethodHandleTest.java" />
-        <option value="$PROJECT_DIR$/lambda/src/main/java/com/alibaba/spring/boot/demo/study/LambdaArgumentStaticExample.java" />
-        <option value="$PROJECT_DIR$/lambda/src/main/java/com/alibaba/spring/boot/demo/study/LambdaStaticExample.java" />
-        <option value="$PROJECT_DIR$/lambda/src/main/java/com/alibaba/spring/boot/demo/study/LambdaExample.java" />
-        <option value="$PROJECT_DIR$/lambda/src/main/java/com/alibaba/spring/boot/demo/study/LambdaCacheValidExample.java" />
-        <option value="$PROJECT_DIR$/springboot/pom.xml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/tools/jvm.tools/src/main/java/com/alibaba/cvictory/tools/unicode/UnicodeConvert.java" />
-        <option value="$PROJECT_DIR$/spring.boot/boot2.kotlin/pom.xml" />
-        <option value="$PROJECT_DIR$/spring.boot/springcloud/eureka-server/src/main/java/com/alibaba/springcloud/eurekaserver/EurekaServiceRegisterApplication.java" />
-        <option value="$PROJECT_DIR$/spring.boot/springcloud/eureka-server/pom.xml" />
-        <option value="$PROJECT_DIR$/spring.boot/springcloud/cloud-provider/pom.xml" />
-        <option value="$PROJECT_DIR$/spring.boot/springcloud/cloud-provider/src/main/java/com/alibaba/springcloud/producer/EurekaServerProducerApplication.java" />
-        <option value="$PROJECT_DIR$/spring.boot/springcloud/cloud-provider/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring.boot/springcloud/cloud-provider/src/main/java/com/alibaba/springcloud/producer/controller/ServiceInstanceRestController.java" />
-        <option value="$PROJECT_DIR$/spring.boot/springcloud/eureka-server/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/src/main/java/com/alibaba/springcloud/consumer/EurekaServerConsumerApplication.java" />
-        <option value="$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/src/main/java/com/alibaba/springcloud/consumer/controller/ConsumerController.java" />
-        <option value="$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/src/main/java/com/alibaba/springcloud/consumer/ribbon/controller/ConsumerController.java" />
-        <option value="$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/src/main/java/com/alibaba/springcloud/consumer/feign/EurekaConsumerApplication.java" />
-        <option value="$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/src/main/java/com/alibaba/springcloud/consumer/feign/service/ComputeClient.java" />
-        <option value="$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/tools/jvm.tools/src/main/java/com/alibaba/cvictory/tools/format/XmlFormat.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/study/lambda/pom.xml" />
-        <option value="$PROJECT_DIR$/study/testjava/pom.xml" />
-        <option value="$PROJECT_DIR$/study/pom.xml" />
-        <option value="$PROJECT_DIR$/tools/pom.xml" />
-        <option value="$PROJECT_DIR$/tools/simple.java.tools/pom.xml" />
-        <option value="$PROJECT_DIR$/tools/jvm.tools/pom.xml" />
-        <option value="$PROJECT_DIR$/jersey-web/pom.xml" />
-        <option value="$PROJECT_DIR$/spring.boot/pom.xml" />
-        <option value="$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/src/main/java/com/alibaba/springcloud/consumer/feign/controller/ConsumerController.java" />
+        <option value="$PROJECT_DIR$/algorithm/dfs/src/main/java/MaxAreaOfIsland.java" />
+        <option value="$PROJECT_DIR$/algorithm/backtracking/src/main/java/LetterCombination.java" />
+        <option value="$PROJECT_DIR$/algorithm/backtracking/src/main/java/RestoreIpAddresses.java" />
+        <option value="$PROJECT_DIR$/algorithm/backtracking/src/main/java/Permutations.java" />
+        <option value="$PROJECT_DIR$/algorithm/backtracking/src/main/java/Combinations.java" />
+        <option value="$PROJECT_DIR$/algorithm/backtracking/src/main/java/CombinationSum.java" />
+        <option value="$PROJECT_DIR$/algorithm/fibonacci/src/main/java/Rob.java" />
+        <option value="$PROJECT_DIR$/algorithm/fibonacci/src/main/java/MinPathSum.java" />
+        <option value="$PROJECT_DIR$/algorithm/knapsack/src/main/java/Knapsack.java" />
+        <option value="$PROJECT_DIR$/algorithm/knapsack/src/main/java/CanPartition.java" />
+        <option value="$PROJECT_DIR$/algorithm/knapsack/src/main/java/OnesAndZeroes.java" />
+        <option value="$PROJECT_DIR$/algorithm/knapsack/src/main/java/CoinChange.java" />
+        <option value="$PROJECT_DIR$/algorithm/knapsack/src/main/java/WordBreak.java" />
+        <option value="$PROJECT_DIR$/algorithm/dynamic/src/main/java/CooldownStock.java" />
+        <option value="$PROJECT_DIR$/algorithm/dynamic/src/main/java/FeeStock.java" />
+        <option value="$PROJECT_DIR$/algorithm/dynamic/src/main/java/KthStock.java" />
+        <option value="$PROJECT_DIR$/algorithm/dynamic/src/main/java/MinPath.java" />
+        <option value="$PROJECT_DIR$/algorithm/dynamic/src/main/java/MinStep.java" />
+        <option value="$PROJECT_DIR$/algorithm/sorting/src/main/java/KthElement.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/math/Base7.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/math/Base64.java" />
+        <option value="$PROJECT_DIR$/algorithm/sorting/src/main/java/QuickSort.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/tree/IsBalanced.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/tree/DiameterOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/tree/HasPathSum.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/tree/PathSum.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/tree/SumOfLeftLeaves.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/tree/LongestUnivaluePath.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/tree/TrimBST.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/tree/KthSmallest.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/tree/ConvertBST.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/tree/FindMode.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/array/MaxChunksToSorted.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/bit/ReverseBits.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/math/IsNumber.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/math/AgulyNumber.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/string/LastRemaining.java" />
+        <option value="$PROJECT_DIR$/algorithm/sorting/src/main/java/QuickSort2.java" />
+        <option value="$PROJECT_DIR$/algorithm/dfs/src/main/java/SurroundedRegions.java" />
+        <option value="$PROJECT_DIR$/algorithm/backtracking/src/main/java/RestoreIpAddresses2.java" />
+        <option value="$PROJECT_DIR$/algorithm/backtracking/src/main/java/BinaryTreePaths2.java" />
+        <option value="$PROJECT_DIR$/algorithm/backtracking/src/main/java/PermuteUnique.java" />
+        <option value="$PROJECT_DIR$/algorithm/backtracking/src/main/java/PalindromePartitioning2.java" />
+        <option value="$PROJECT_DIR$/algorithm/dynamic/src/main/java/DecodeWays.java" />
+        <option value="$PROJECT_DIR$/algorithm/dynamic/src/main/java/LengthOfLIS.java" />
+        <option value="$PROJECT_DIR$/algorithm/knapsack/src/main/java/CoinChange22.java" />
+        <option value="$PROJECT_DIR$/algorithm/dynamic/src/main/java/StockWithCoolDown.java" />
+        <option value="$PROJECT_DIR$/algorithm/dynamic/src/main/java/StockWithFee.java" />
+        <option value="$PROJECT_DIR$/algorithm/dynamic/src/main/java/MinDistance.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/array/FindDuplicateNumber.java" />
+        <option value="$PROJECT_DIR$/algorithm/basic/src/main/java/string/KmpSearch.java" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Applications/apache-maven-3.5.2" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -287,8 +185,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="180" />
+    <option name="y" value="112" />
+    <option name="width" value="1080" />
+    <option name="height" value="676" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -305,126 +205,77 @@
             <path>
               <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
               <item name="javatesttool" type="462c0819:PsiDirectoryNode" />
-              <item name="jersey-web" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="javatesttool" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.netflix.archaius:archaius-core:0.7.6" type="70bed36:NamedLibraryElementNode" />
+              <item name="javatesttool" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.netflix.archaius:archaius-core:0.7.6" type="70bed36:NamedLibraryElementNode" />
-              <item name="archaius-core-0.7.6.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="javatesttool" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.netflix.archaius:archaius-core:0.7.6" type="70bed36:NamedLibraryElementNode" />
-              <item name="archaius-core-0.7.6.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="javatesttool" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.netflix.eureka:eureka-core:1.9.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="javatesttool" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.netflix.eureka:eureka-core:1.9.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="eureka-core-1.9.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="javatesttool" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="knapsack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.netflix.eureka:eureka-core:1.9.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="eureka-core-1.9.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="javatesttool" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="knapsack" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.netflix.eureka:eureka-core:1.9.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="eureka-core-1.9.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="registry" type="462c0819:PsiDirectoryNode" />
+              <item name="javatesttool" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="knapsack" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.netflix.eureka:eureka-core:1.9.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="eureka-core-1.9.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.sun.jersey:jersey-server:1.19.1" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-commons:2.0.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-commons:2.0.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-commons-2.0.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:2.0.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:2.0.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-server-2.0.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:2.0.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-server-2.0.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:2.0.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-server-2.0.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:2.0.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-server-2.0.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:2.0.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-server-2.0.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javatesttool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:2.0.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-server-2.0.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="javatesttool" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="knapsack" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -445,25 +296,32 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/tools" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.alibaba.spring.boot.demo.study" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/study" />
       <recent name="$PROJECT_DIR$/tools" />
       <recent name="$PROJECT_DIR$/springboot" />
       <recent name="$PROJECT_DIR$/springcloud" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.alibaba.spring.boot.demo.study" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/tools" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -478,20 +336,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaConsumerApplication">
-    <configuration default="true" type="Applet" factoryName="Applet">
+  <component name="RunManager" selected="Application.KmpSearch">
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaCacheValidExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alibaba.spring.boot.demo.study.LambdaCacheValidExample" />
-      <module name="lambda" />
+    <configuration name="FindDuplicateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.FindDuplicateNumber" />
+      <module name="basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alibaba.spring.boot.demo.study.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -499,16 +357,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnicodeConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alibaba.cvictory.tools.unicode.UnicodeConvert" />
-      <module name="tools" />
+    <configuration name="KmpSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.KmpSearch" />
+      <module name="basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alibaba.cvictory.tools.unicode.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinDistance" />
+      <module name="dynamic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockWithCoolDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StockWithCoolDown" />
+      <module name="dynamic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockWithFee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StockWithFee" />
+      <module name="dynamic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -520,6 +402,7 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -552,45 +435,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EurekaConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="cloud-consumer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.alibaba.springcloud.consumer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.springcloud.consumer.EurekaConsumerApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EurekaServerProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="cloud-provider" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.alibaba.springcloud.producer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.springcloud.producer.EurekaServerProducerApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EurekaServiceRegisterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="eurekaserver" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.alibaba.springcloud.eurekaserver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.springcloud.eurekaserver.EurekaServiceRegisterApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Example" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="simpleweb" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibab.spring.boot.demo.study.simpleweb.Example" />
@@ -598,7 +442,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -607,22 +452,22 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.Example" />
-      <item itemvalue="Spring Boot.Boot2Application" />
       <item itemvalue="Spring Boot.Application" />
-      <item itemvalue="Application.LambdaCacheValidExample" />
-      <item itemvalue="Application.UnicodeConvert" />
-      <item itemvalue="Spring Boot.EurekaServiceRegisterApplication" />
-      <item itemvalue="Spring Boot.EurekaServerProducerApplication" />
-      <item itemvalue="Spring Boot.EurekaConsumerApplication" />
+      <item itemvalue="Spring Boot.Boot2Application" />
+      <item itemvalue="Spring Boot.Example" />
+      <item itemvalue="Application.StockWithCoolDown" />
+      <item itemvalue="Application.StockWithFee" />
+      <item itemvalue="Application.MinDistance" />
+      <item itemvalue="Application.FindDuplicateNumber" />
+      <item itemvalue="Application.KmpSearch" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.EurekaConsumerApplication" />
-        <item itemvalue="Spring Boot.EurekaServiceRegisterApplication" />
-        <item itemvalue="Spring Boot.EurekaServerProducerApplication" />
-        <item itemvalue="Application.UnicodeConvert" />
-        <item itemvalue="Application.LambdaCacheValidExample" />
+        <item itemvalue="Application.KmpSearch" />
+        <item itemvalue="Application.FindDuplicateNumber" />
+        <item itemvalue="Application.MinDistance" />
+        <item itemvalue="Application.StockWithFee" />
+        <item itemvalue="Application.StockWithCoolDown" />
       </list>
     </recent_temporary>
   </component>
@@ -674,18 +519,71 @@
       <workItem from="1519434528582" duration="6376000" />
       <workItem from="1522721751737" duration="4187000" />
       <workItem from="1532588175278" duration="23338000" />
-      <workItem from="1532748535503" duration="1291000" />
+      <workItem from="1532748535503" duration="4503000" />
+      <workItem from="1532858755041" duration="24514000" />
+      <workItem from="1533088993392" duration="73455000" />
+      <workItem from="1533692950667" duration="60118000" />
+      <workItem from="1534150485376" duration="28830000" />
+      <workItem from="1534577992073" duration="18827000" />
+      <workItem from="1534820915573" duration="115000" />
+      <workItem from="1534821231049" duration="6630000" />
+      <workItem from="1534937554280" duration="7549000" />
+      <workItem from="1535186797797" duration="12163000" />
+      <workItem from="1535351822069" duration="2465000" />
+      <workItem from="1535540742640" duration="202000" />
+      <workItem from="1535600796602" duration="17000" />
+      <workItem from="1535600873481" duration="3453000" />
+      <workItem from="1536492860568" duration="20000" />
+      <workItem from="1536894600486" duration="1175000" />
+      <workItem from="1537171714766" duration="596000" />
+      <workItem from="1544008065044" duration="1302000" />
+      <workItem from="1553687195587" duration="6425000" />
+      <workItem from="1553843837730" duration="3650000" />
+      <workItem from="1555420873105" duration="10423000" />
+      <workItem from="1555638624508" duration="743000" />
+      <workItem from="1555925833810" duration="215000" />
+      <workItem from="1555926234526" duration="2716000" />
+      <workItem from="1555988999253" duration="129000" />
+      <workItem from="1555990520848" duration="227000" />
+      <workItem from="1555998636649" duration="447000" />
+      <workItem from="1556157142243" duration="6776000" />
+      <workItem from="1556547899833" duration="141000" />
+      <workItem from="1558255781585" duration="186000" />
+      <workItem from="1558257490312" duration="9450000" />
+      <workItem from="1558321450472" duration="7350000" />
+      <workItem from="1558413148061" duration="27985000" />
+      <workItem from="1558666920484" duration="13675000" />
+      <workItem from="1558922710069" duration="17324000" />
+      <workItem from="1559142357138" duration="16945000" />
+      <workItem from="1559547151834" duration="2545000" />
+      <workItem from="1559796264715" duration="659000" />
+      <workItem from="1559799803480" duration="10688000" />
+      <workItem from="1560737731620" duration="20027000" />
+      <workItem from="1560946319127" duration="4142000" />
+      <workItem from="1561085238550" duration="1309000" />
+      <workItem from="1561341923433" duration="3050000" />
+      <workItem from="1561450805553" duration="1199000" />
+      <workItem from="1561518319312" duration="595000" />
+      <workItem from="1562133138710" duration="227000" />
+      <workItem from="1546300887272" duration="20000" />
+      <workItem from="1562209596724" duration="237000" />
+      <workItem from="1562642392737" duration="1155000" />
+      <workItem from="1562895876312" duration="424000" />
+      <workItem from="1563158058796" duration="1478000" />
+      <workItem from="1563503761240" duration="68436000" />
+      <workItem from="1564665141537" duration="6566000" />
+      <workItem from="1564717147802" duration="18335000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151280000" />
+    <option name="totallyTimeSpent" value="661822000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30615166" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.022922637" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -694,25 +592,29 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Designer" order="7" />
       <window_info id="Web" order="8" side_tool="true" />
+      <window_info id="Alibaba Cloud Explorer" order="9" weight="0.2108027" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.42168674" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43030304" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.45333335" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4978701" weight="0.41401273" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3686747" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946752" weight="0.46024096" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Full Stack Tools" order="7" />
       <window_info anchor="bottom" id="JRebel Console" order="8" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Executor" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49642345" weight="0.3962264" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49642345" weight="0.39405942" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32889965" />
       <window_info anchor="bottom" id="Spring" order="12" weight="0.32889965" />
       <window_info anchor="bottom" id="CheckStyle" order="13" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="14" sideWeight="0.4978701" visible="true" weight="0.50240964" />
-      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5035765" side_tool="true" weight="0.39661428" />
+      <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.4978701" weight="0.36435643" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5005325" side_tool="true" weight="0.4049505" />
       <window_info anchor="bottom" id="Java Enterprise" order="16" />
       <window_info anchor="bottom" id="JProfiler" order="17" />
       <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="19" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="20" />
+      <window_info anchor="right" id="JRebel Setup Guide" weight="0.3291506" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -724,10 +626,12 @@
       <window_info anchor="right" id="Bean Validation" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Maven Projects" order="10" />
+      <window_info anchor="right" id="Maven" order="11" />
+      <window_info anchor="right" id="ASMPlugin" order="12" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4613734" />
-      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14072494" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Image Layers" order="4" />
@@ -735,23 +639,28 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Designer" order="7" />
       <window_info id="Web" order="8" side_tool="true" />
+      <window_info id="Alibaba Cloud Explorer" order="9" weight="0.2108027" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.42403176" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32770607" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.45382324" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4978701" weight="0.41401273" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39759037" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946752" weight="0.32970297" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Full Stack Tools" order="7" />
       <window_info anchor="bottom" id="JRebel Console" order="8" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Executor" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49642345" weight="0.3962264" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49642345" weight="0.39405942" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32889965" />
       <window_info anchor="bottom" id="Spring" order="12" weight="0.32889965" />
       <window_info anchor="bottom" id="CheckStyle" order="13" />
-      <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.4978701" weight="0.50347567" />
-      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5035765" side_tool="true" weight="0.39661428" />
+      <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.4978701" weight="0.36435643" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5005325" side_tool="true" weight="0.4049505" />
       <window_info anchor="bottom" id="Java Enterprise" order="16" />
+      <window_info anchor="bottom" id="JProfiler" order="17" />
+      <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="19" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="20" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -763,634 +672,968 @@
       <window_info anchor="right" id="Bean Validation" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Maven Projects" order="10" />
+      <window_info anchor="right" id="Maven" order="11" />
+      <window_info anchor="right" id="ASMPlugin" order="12" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/tools/src/main/java/com/alibaba/cvictory/tools/unicode/UnicodeConvert.java</url>
           <line>65</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/study/testjava/src/main/java/com/alibaba/spring/boot/testjava/TestClassLoader.java</url>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/study/testjava/src/main/java/com/cvictory/javatest/testjava/TestClassLoader.java</url>
           <line>28</line>
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/study/testjava/src/main/java/com/alibaba/spring/boot/testjava/TestClassLoader.java</url>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/study/testjava/src/main/java/com/cvictory/javatest/testjava/TestClassLoader.java</url>
           <line>25</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/study/testjava/src/main/java/com/alibaba/spring/boot/testjava/TestClassLoader.java</url>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/study/testjava/src/main/java/com/cvictory/javatest/testjava/TestClassLoader.java</url>
           <line>16</line>
           <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/study/testjava/src/main/java/com/alibaba/spring/boot/testjava/TestClassLoader.java</url>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/study/testjava/src/main/java/com/cvictory/javatest/testjava/TestClassLoader.java</url>
           <line>17</line>
           <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/study/testjava/src/main/java/com/alibaba/spring/boot/testjava/TestClassLoader.java</url>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/study/testjava/src/main/java/com/cvictory/javatest/testjava/TestClassLoader.java</url>
           <line>18</line>
           <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/study/testjava/src/main/java/com/alibaba/spring/boot/testjava/TestClassLoader.java</url>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/study/testjava/src/main/java/com/cvictory/javatest/testjava/TestClassLoader.java</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class</url>
           <line>22</line>
           <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/tools/src/main/java/com/alibaba/cvictory/tools/format/XmlFormat.java</url>
           <line>42</line>
           <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/com/sun/org/apache/xalan/internal/xsltc/trax/TransformerImpl.java</url>
           <line>326</line>
           <properties />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/invoke/LambdaMetafactory.java</url>
           <line>298</line>
           <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/study/lambda/src/main/java/com/alibaba/spring/boot/demo/study/LambdaCacheValidExample.java</url>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/study/lambda/src/main/java/com/cvictory/javatest/lambda/LambdaCacheValidExample.java</url>
           <line>12</line>
           <properties />
           <option name="timeStamp" value="41" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/study/lambda/src/main/java/com/alibaba/spring/boot/demo/study/LambdaCacheValidExample.java</url>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/study/lambda/src/main/java/com/cvictory/javatest/lambda/LambdaCacheValidExample.java</url>
           <line>13</line>
           <properties />
           <option name="timeStamp" value="42" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/invoke/MethodHandleNatives.java</url>
           <line>291</line>
           <properties />
           <option name="timeStamp" value="43" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/study/lambda/src/main/java/com/alibaba/spring/boot/demo/study/LambdaCacheValidExample.java</url>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/study/lambda/src/main/java/com/cvictory/javatest/lambda/LambdaCacheValidExample.java</url>
           <line>14</line>
           <properties />
           <option name="timeStamp" value="44" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/study/lambda/src/main/java/com/alibaba/spring/boot/demo/study/LambdaCacheValidExample.java</url>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/study/lambda/src/main/java/com/cvictory/javatest/lambda/LambdaCacheValidExample.java</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="45" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/study/lambda/src/main/java/com/alibaba/spring/boot/demo/study/LambdaCacheValidExample.java</url>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/study/lambda/src/main/java/com/cvictory/javatest/lambda/LambdaCacheValidExample.java</url>
           <line>16</line>
           <properties />
           <option name="timeStamp" value="46" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/study/lambda/src/main/java/com/alibaba/spring/boot/demo/study/LambdaCacheValidExample.java</url>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/study/lambda/src/main/java/com/cvictory/javatest/lambda/LambdaCacheValidExample.java</url>
           <line>17</line>
           <properties />
           <option name="timeStamp" value="47" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java</url>
-          <line>192</line>
-          <properties />
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java</url>
           <line>146</line>
           <properties />
           <option name="timeStamp" value="60" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/resources/ApplicationResource.java</url>
           <line>88</line>
           <properties />
           <option name="timeStamp" value="61" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/resources/ApplicationResource.java</url>
-          <line>145</line>
-          <properties />
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/resources/PeerReplicationResource.java</url>
           <line>81</line>
           <properties />
           <option name="timeStamp" value="64" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/resources/InstanceResource.java</url>
-          <line>110</line>
-          <properties />
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/resources/PeerReplicationResource.java</url>
           <line>147</line>
           <properties />
           <option name="timeStamp" value="68" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.0.0.RELEASE/spring-cloud-netflix-eureka-server-2.0.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerInitializerConfiguration.java</url>
-          <line>70</line>
-          <properties />
-          <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/resources/InstanceResource.java</url>
-          <line>63</line>
-          <properties />
-          <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/resources/ApplicationsResource.java</url>
-          <line>92</line>
-          <properties />
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-server/1.19.1/jersey-server-1.19.1-sources.jar!/com/sun/jersey/server/impl/uri/rules/SubLocatorRule.java</url>
-          <line>111</line>
-          <properties />
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/resources/ApplicationResource.java</url>
           <line>128</line>
           <properties />
           <option name="timeStamp" value="73" />
         </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-servlet/1.19.1/jersey-servlet-1.19.1-sources.jar!/com/sun/jersey/spi/container/servlet/ServletContainer.java</url>
+          <line>576</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-servlet/1.19.1/jersey-servlet-1.19.1-sources.jar!/com/sun/jersey/spi/container/servlet/ServletContainer.java</url>
+          <line>656</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/transport/JerseyReplicationClient.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/transport/JerseyReplicationClient.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>1266</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/appinfo/LeaseInfo.java</url>
+          <line>243</line>
+          <properties />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>1381</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/appinfo/ApplicationInfoManager.java</url>
+          <line>200</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>1377</line>
+          <properties />
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/appinfo/ApplicationInfoManager.java</url>
+          <line>224</line>
+          <properties />
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java</url>
+          <line>119</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java</url>
+          <line>142</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java</url>
+          <line>164</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java</url>
+          <line>169</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java</url>
+          <line>174</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java</url>
+          <line>179</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java</url>
+          <line>183</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java</url>
+          <line>219</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java</url>
+          <line>246</line>
+          <properties />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java</url>
+          <line>251</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>1398</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java</url>
+          <line>197</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-client/1.19.1/jersey-client-1.19.1-sources.jar!/com/sun/jersey/api/client/ClientResponse.java</url>
+          <line>607</line>
+          <properties />
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>886</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.0.0.RELEASE/spring-cloud-netflix-eureka-client-2.0.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaHealthCheckHandler.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.0.0.RELEASE/spring-cloud-netflix-eureka-client-2.0.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaHealthCheckHandler.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>1376</line>
+          <properties />
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/appinfo/ApplicationInfoManager.java</url>
+          <line>176</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/InstanceInfoReplicator.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/InstanceInfoReplicator.java</url>
+          <line>116</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/appinfo/ApplicationInfoManager.java</url>
+          <line>167</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/appinfo/ApplicationInfoManager.java</url>
+          <line>172</line>
+          <properties />
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>1046</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/SynchronousQueue.java</url>
+          <line>669</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.31/tomcat-embed-core-8.5.31-sources.jar!/org/apache/tomcat/util/threads/ThreadPoolExecutor.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/SynchronousQueue.java</url>
+          <line>608</line>
+          <properties />
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/SynchronousQueue.java</url>
+          <line>305</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/SynchronousQueue.java</url>
+          <line>317</line>
+          <properties />
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/SynchronousQueue.java</url>
+          <line>390</line>
+          <properties />
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>597</line>
+          <properties />
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/resources/InstanceResource.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/cluster/PeerEurekaNode.java</url>
+          <line>204</line>
+          <properties />
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/cluster/ReplicationTaskProcessor.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.0.0.RELEASE/spring-cloud-netflix-eureka-client-2.0.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/http/RestTemplateEurekaHttpClient.java</url>
+          <line>162</line>
+          <properties />
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/InstanceInfoReplicator.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/study/concurrents/src/main/java/com/cvictory/javatest/concurrents/fixedscheduler/ThreadPoolExecutorTest.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/study/concurrents/src/main/java/com/cvictory/javatest/concurrents/fixedscheduler/ThreadPoolExecutorTest.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java</url>
+          <line>1245</line>
+          <properties />
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/resources/InstanceResource.java</url>
-          <line>78</line>
+          <line>111</line>
           <properties />
-          <option name="timeStamp" value="74" />
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/EurekaBootStrap.java</url>
+          <line>168</line>
+          <properties />
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/DiscoveryManager.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/registry/PeerAwareInstanceRegistryImpl.java</url>
+          <line>409</line>
+          <properties />
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java</url>
+          <line>195</line>
+          <properties />
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java</url>
+          <line>1962</line>
+          <properties />
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i == 10" language="JAVA" />
+          <url>file://$PROJECT_DIR$/algorithm/basic/src/main/java/math/AgulyNumber.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="287" />
         </line-breakpoint>
       </breakpoints>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>i == 10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i = 10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>ConfigurationManager.getConfigInstance().getString()</expression-string>
+        <expression-string>recentRegisteredQueue</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>ConfigurationManager.getConfigInstance()</expression-string>
+        <expression-string>registrant.getId()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>t</expression-string>
+        <expression-string>registrant.getAppName()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>t.getClass()</expression-string>
+        <expression-string>getApplicationListeners(event, type)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>t.getClass().getName()</expression-string>
+        <expression-string>info.getLeaseInfo()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>this.getClass()</expression-string>
+        <expression-string>lease.getHolder().getAppName()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>mf.buildCallSite()</expression-string>
+        <expression-string>Key.KeyType.values()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>invokedType</expression-string>
+        <expression-string>registry.entrySet()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getNumOfRenewsInLastMin()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jersey/contribs/jersey-apache-client4/1.19.1/jersey-apache-client4-1.19.1.jar!/com/sun/jersey/client/apache4/ApacheHttpClient4Handler.class">
+    <entry file="file://$PROJECT_DIR$/algorithm/dynamic/src/main/java/KthStock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/registry/ResponseCacheImpl.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/dynamic/src/main/java/MinimumPathSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="150" column="35" selection-start-line="150" selection-start-column="35" selection-end-line="150" selection-end-column="35" />
+        <state relative-caret-position="425">
+          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/registry/PeerAwareInstanceRegistryImpl.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/dynamic/src/main/java/EditDistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="554" selection-start-line="554" selection-end-line="554" />
+        <state relative-caret-position="435">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar!/javax/inject/Singleton.class">
+    <entry file="file://$PROJECT_DIR$/algorithm/dynamic/src/main/java/MinPath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="440">
+          <caret line="31" column="110" selection-start-line="31" selection-start-column="110" selection-end-line="31" selection-end-column="110" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1-sources.jar!/javax/inject/Scope.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="78" column="18" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+        <state relative-caret-position="134">
+          <caret line="321" column="52" selection-start-line="321" selection-start-column="46" selection-end-line="321" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1-sources.jar!/javax/inject/Singleton.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="379">
+          <caret line="138" column="34" selection-start-line="138" selection-start-column="34" selection-end-line="138" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2-sources.jar!/com/netflix/discovery/DiscoveryClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1162">
-          <caret line="108" column="23" lean-forward="true" selection-start-line="108" selection-start-column="23" selection-end-line="108" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring.boot/springcloud/eureka-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring.boot/springcloud/eureka-server/src/main/java/com/alibaba/springcloud/eurekaserver/EurekaServiceRegisterApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.0.0.RELEASE/spring-cloud-netflix-eureka-server-2.0.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerAutoConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="317" column="1" lean-forward="true" selection-start-line="317" selection-start-column="1" selection-end-line="317" selection-end-column="1" />
-          <folding>
-            <element signature="e#4987#4988#0" expanded="true" />
-            <element signature="e#5050#5051#0" expanded="true" />
-            <element signature="e#5216#5217#0" expanded="true" />
-            <element signature="e#5276#5277#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-server/1.19.1/jersey-server-1.19.1.jar!/com/sun/jersey/server/impl/model/method/dispatch/ResourceJavaMethodDispatcher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="36" column="76" lean-forward="true" selection-start-line="36" selection-start-column="76" selection-end-line="36" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.0.0.RELEASE/spring-cloud-netflix-eureka-server-2.0.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerInitializerConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="750" column="32" selection-start-line="750" selection-start-column="32" selection-end-line="750" selection-end-column="32" />
-          <folding>
-            <element signature="e#10541#10555#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1-sources.jar!/javax/ws/rs/HttpMethod.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/math/Base7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1-sources.jar!/javax/ws/rs/GET.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/math/Base64.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-server/1.19.1/jersey-server-1.19.1.jar!/com/sun/jersey/server/impl/uri/rules/SubLocatorRule.class">
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/tree/IsBalanced.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        <state relative-caret-position="150">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/resources/PeerReplicationResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="133" column="19" selection-start-line="133" selection-start-column="19" selection-end-line="133" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1-sources.jar!/javax/ws/rs/Produces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1-sources.jar!/javax/ws/rs/core/Response.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-server/1.19.1/jersey-server-1.19.1-sources.jar!/com/sun/jersey/server/impl/model/method/dispatch/AbstractResourceMethodDispatchProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="81" column="29" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-server/1.19.1/jersey-server-1.19.1.jar!/com/sun/jersey/server/impl/model/method/dispatch/AbstractResourceMethodDispatchProvider.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="129" selection-start-line="129" selection-end-line="129" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="1704" selection-start-line="1704" selection-end-line="1704" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-server/1.19.1/jersey-server-1.19.1-sources.jar!/com/sun/jersey/server/impl/application/WebApplicationImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="1638" selection-start-line="1638" selection-end-line="1638" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-server/1.19.1/jersey-server-1.19.1-sources.jar!/com/sun/jersey/server/impl/uri/rules/CombiningMatchingPatterns.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="103" selection-start-line="103" selection-end-line="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-server/1.19.1/jersey-server-1.19.1-sources.jar!/com/sun/jersey/server/impl/uri/rules/RightHandPathRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="146" selection-start-line="146" selection-end-line="146" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/resources/ApplicationResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="128" column="26" selection-start-line="128" selection-start-column="26" selection-end-line="128" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/resources/InstanceResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
-          <caret line="110" selection-start-line="110" selection-end-line="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.2/eureka-core-1.9.2-sources.jar!/com/netflix/eureka/resources/ApplicationsResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="92" selection-start-line="92" selection-end-line="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-servlet/1.19.1/jersey-servlet-1.19.1.jar!/com/sun/jersey/spi/container/servlet/ServletContainer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="251" selection-start-line="251" selection-end-line="251" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-server/1.19.1/jersey-server-1.19.1-sources.jar!/com/sun/jersey/server/impl/uri/rules/SubLocatorRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="109" column="26" selection-start-line="109" selection-start-column="15" selection-end-line="109" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/2.0.3.RELEASE/spring-boot-actuator-2.0.3.RELEASE.jar!/org/springframework/boot/actuate/metrics/web/servlet/WebMvcMetricsFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-servlet/1.19.1/jersey-servlet-1.19.1-sources.jar!/com/sun/jersey/spi/container/servlet/ServletContainer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="163" column="49" selection-start-line="163" selection-start-column="49" selection-end-line="163" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/src/main/java/com/alibaba/springcloud/consumer/ribbon/EurekaConsumerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/src/main/java/com/alibaba/springcloud/consumer/ribbon/controller/ConsumerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="58" selection-start-column="8" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/src/main/java/com/alibaba/springcloud/consumer/feign/EurekaConsumerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/src/main/java/com/alibaba/springcloud/consumer/feign/service/ComputeClient.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/tree/DiameterOfBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/tree/HasPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/tree/PathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="40" column="28" lean-forward="true" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/tree/SumOfLeftLeaves.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/tree/LongestUnivaluePath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/tree/TreeRob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/tree/TrimBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/tree/KthSmallest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/math/AgulyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/tree/ConvertBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/tree/FindMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#185#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/array/MaxChunksToSorted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/bit/ReverseBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/math/IsNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2190">
+          <caret line="169" column="13" selection-start-line="169" selection-start-column="13" selection-end-line="169" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/array/src/main/java/KthLargest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/sorting/src/main/java/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/sorting/src/main/java/KthElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="64" column="17" lean-forward="true" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1-sources.jar!/javax/ws/rs/Path.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/string/LastRemaining.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="62" column="3" selection-start-line="62" selection-start-column="3" selection-end-line="62" selection-end-column="3" />
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/jvm.tools/src/main/java/com/alibaba/cvictory/tools/format/XmlFormat.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="131">
+          <caret line="199" lean-forward="true" selection-start-line="199" selection-end-line="199" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/lambda/pom.xml">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="50" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="50" />
+        <state relative-caret-position="77">
+          <caret line="360" column="5" selection-start-line="360" selection-start-column="5" selection-end-line="360" selection-end-column="5" />
+          <folding>
+            <element signature="e#13000#13001#0" expanded="true" />
+            <element signature="e#13056#13057#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/testjava/pom.xml">
+    <entry file="file://$PROJECT_DIR$/algorithm/dfs/src/main/java/SurroundedRegions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        <state relative-caret-position="300">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="282">
+          <caret line="753" column="49" selection-start-line="753" selection-start-column="44" selection-end-line="753" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/pom.xml">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        <state relative-caret-position="160">
+          <caret line="244" column="20" selection-start-line="244" selection-start-column="20" selection-end-line="244" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/pom.xml">
+    <entry file="file://$PROJECT_DIR$/algorithm/backtracking/src/main/java/RestoreIpAddresses2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="47" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="47" />
+        <state relative-caret-position="190">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/pom.xml">
+    <entry file="file://$PROJECT_DIR$/algorithm/backtracking/src/main/java/BinaryTreePaths2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        <state relative-caret-position="331">
+          <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1256#1257#0" expanded="true" />
+            <element signature="e#1287#1288#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/simple.java.tools/pom.xml">
+    <entry file="file://$PROJECT_DIR$/algorithm/backtracking/src/main/java/PermuteUnique.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="255">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#228#243#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/jvm.tools/pom.xml">
+    <entry file="file://$PROJECT_DIR$/algorithm/backtracking/src/main/java/PalindromePartitioning2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="328">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#230#244#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
+            <element signature="e#1169#1170#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring.boot/pom.xml">
+    <entry file="file://$PROJECT_DIR$/algorithm/dynamic/src/main/java/DecodeWays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="47" />
+        <state relative-caret-position="246">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring.boot/boot2/pom.xml">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="1008">
+          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
+          <folding>
+            <element signature="e#6283#6284#0" expanded="true" />
+            <element signature="e#6351#6352#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jersey-web/pom.xml">
+    <entry file="file://$PROJECT_DIR$/algorithm/dynamic/src/main/java/LengthOfLIS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        <state relative-caret-position="842">
+          <caret line="57" column="81" selection-start-line="57" selection-start-column="81" selection-end-line="57" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring.boot/springcloud/cloud-consumer/src/main/java/com/alibaba/springcloud/consumer/feign/controller/ConsumerController.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/knapsack/src/main/java/CoinChange22.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/dynamic/src/main/java/StockIV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/dynamic/src/main/java/StockWithCoolDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/dynamic/src/main/java/StockWithFee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/dynamic/src/main/java/MinDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/dynamic/src/main/java/MinStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="176" column="20" lean-forward="true" selection-start-line="176" selection-start-column="20" selection-end-line="176" selection-end-column="20" />
+          <folding>
+            <element signature="e#5687#5688#0" expanded="true" />
+            <element signature="e#5750#5751#0" expanded="true" />
+            <element signature="e#82616#82617#0" expanded="true" />
+            <element signature="e#82667#82668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/sorting/src/main/java/QuickSort2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/string/KmpSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="40" column="42" lean-forward="true" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/basic/src/main/java/array/FindDuplicateNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="90" column="38" lean-forward="true" selection-start-line="90" selection-start-column="38" selection-end-line="90" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1447,11 +1690,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>lambda</last-edited>
+          <last-edited>sorting</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1471,7 +1715,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

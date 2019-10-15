@@ -16,5 +16,6 @@
     <modules>
         <module>testjava</module>
         <module>lambda</module>
+        <module>concurrents</module>
     </modules>
 </project>

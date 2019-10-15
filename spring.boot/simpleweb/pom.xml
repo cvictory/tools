@@ -15,7 +15,6 @@
 <!-- Additional lines to be added here... -->
 
 <!-- (you don't need this if you are using a .RELEASE version) -->
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>

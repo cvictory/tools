@@ -12,6 +12,7 @@
         <module>spring.boot</module>
         <module>study</module>
         <module>jersey-web</module>
+        <module>algorithm</module>
     </modules>
 
 
